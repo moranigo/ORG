@@ -1,3 +1,8 @@
+## 0.2.5-TEST-1
+* [ORG-1](https://tracker.yandex.ru/ORG-1) sdfsd
+* [ORG-1](https://tracker.yandex.ru/ORG-1) sdfsd
+* [ORG-1](https://tracker.yandex.ru/ORG-1) sdfsd
+
 ## 0.2.3
 * [ORG-1](https://tracker.yandex.ru/ORG-1) sdfsd
 
