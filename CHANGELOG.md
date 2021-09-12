@@ -1,3 +1,6 @@
+## 0.2.7-TEST-1
+* [ORG-12](https://tracker.yandex.ru/ORG-12) задача с PR (#21)
+
 ## [0.2.6](https://unstable9.re-lizzy.xyz/releases/workspace-moranigo/TEST-1)
 * [ORG-1](https://tracker.yandex.ru/ORG-1) sdfsd
 
