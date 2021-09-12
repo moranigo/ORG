@@ -1,4 +1,4 @@
-## 0.3.1-TEST-1
+## 0.3.1
 * [ORG-1](https://tracker.yandex.ru/ORG-1) Красивая задача
 
 ## [0.2.6](https://unstable9.re-lizzy.xyz/releases/workspace-moranigo/TEST-1)
