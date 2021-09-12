@@ -1,4 +1,7 @@
 ## 0.2.6-TEST-1
+* [ORG-12](https://tracker.yandex.ru/ORG-12) задача с PR (#21)
+
+## 0.2.6-TEST-1
 * [ORG-1](https://tracker.yandex.ru/ORG-1) Красивая задача
 * [ORG-2](https://tracker.yandex.ru/ORG-2) Ntcn
 * [ORG-3](https://tracker.yandex.ru/ORG-3) 3
