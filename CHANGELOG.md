@@ -1,3 +1,6 @@
+## [0.3.5](https://unstable3.re-lizzy.xyz/releases/workspace-moranigo/TEST-3)
+* [ORG-1](https://tracker.yandex.ru/ORG-1) Красивая задача
+
 ## [0.3.4](https://unstable9.re-lizzy.xyz/releases/workspace-moranigo/TEST-3)
 * [ORG-1](https://tracker.yandex.ru/ORG-1) Красивая задача
 
