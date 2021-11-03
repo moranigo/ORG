@@ -1,3 +1,6 @@
+## [0.3.5](https://unstable8.re-lizzy.xyz/releases/workspace-moranigo/UNSTABLE8-1)
+* [ORG-2](https://tracker.yandex.ru/ORG-2) Ntcn
+
 ## 0.2.6-UNSTABLE4-8
 * [ORG-1](https://tracker.yandex.ru/ORG-1) Красивая задача
 
